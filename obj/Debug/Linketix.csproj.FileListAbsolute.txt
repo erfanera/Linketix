@@ -1,0 +1,8 @@
+C:\Users\erfan\source\repos\Linketix\bin\Linketix.dll
+C:\Users\erfan\source\repos\Linketix\bin\Linketix.pdb
+C:\Users\erfan\source\repos\Linketix\obj\Debug\Linketix.csprojAssemblyReference.cache
+C:\Users\erfan\source\repos\Linketix\obj\Debug\Linketix.dll
+C:\Users\erfan\source\repos\Linketix\obj\Debug\Linketix.pdb
+C:\Users\erfan\source\repos\Linketix\bin\Box2DX.dll
+C:\Users\erfan\source\repos\Linketix\obj\Debug\Linketix.Resource1.resources
+C:\Users\erfan\source\repos\Linketix\obj\Debug\Linketix.csproj.GenerateResource.cache
